@@ -12,4 +12,4 @@ def add_idea(ideas, name, topic, difficulty):
         'difficulty': difficulty
     }
     ideas.append(new_idea)
-    print("\nИдея добавленаа!\n")
+    print("\nИдея добавленааа!\n")
